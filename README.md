@@ -1,6 +1,23 @@
 <h1 align="center">Hi, I'm 0xWitchitra </h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=JetBrains+Mono
+    &size=28
+    &pause=1000
+    &color=9F6FFF
+    &center=true
+    &vCenter=true
+    &width=700
+    &lines=On-chain+Builder;
+            Web3+Developer;
+            Smart+Contract+Engineer;
+            Building+on+EVM+Chains" 
+  />
+</p>
+
+
+<p align="center">
   On-chain Builder · Web3 · Node Guides
 </p>
 
