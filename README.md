@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=9F6FFF&center=true&vCenter=true&width=750&lines=On-chain+Builder;Web3+Developer;Smart+Contract+Engineer;Building+on+EVM+Chains" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2000&color=AAAAAA&center=true&vCenter=true&width=650&lines=Solidity+•+Foundry+•+Next.js+•+Web3+•+Open+Source" />
-</p>
+
 
 ---
 
