@@ -20,7 +20,7 @@
 
 ##  Tech Stack (O_O)
 
-### ⛓ Blockchain & Web3
+###  Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity)
 ![Foundry](https://img.shields.io/badge/FOUNDRY-FF9900?style=for-the-badge)
 ![Wagmi](https://img.shields.io/badge/WAGMI-000000?style=for-the-badge)
