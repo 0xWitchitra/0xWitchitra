@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm 0xWitchitra </h1>
 
 <p align="center">
-  On-chain Builder · Web3 · Smart Contracts
+  On-chain Builder · Web3 · Node Guides
 </p>
 
 <p align="center">
