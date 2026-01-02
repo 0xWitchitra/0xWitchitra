@@ -10,19 +10,18 @@
 
 ---
 
-## 👋 About Me
+##  ABOUT ME
 
-- 🧱 On-chain builder focused on **EVM ecosystems**
-- 🔐 Writing secure & gas-optimized smart contracts
-- 🛠️ Full-stack Web3 developer
-- 🌍 Open-source contributor
-- 🇮🇳 Based in India
+ On-chain builder focused on **EVM ecosystems**
+ Full-stack Web3 developer
+ Open-source contributor
+
 
 ---
 
-## ⚙️ Tech Stack (ಠ_ಠ)
+##  Tech Stack 
 
-### ⛓ Blockchain & Web3
+### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-121D33?style=for-the-badge&logo=solidity)
 ![Foundry](https://img.shields.io/badge/Foundry-FF6C37?style=for-the-badge&logo=ethereum)
 ![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=for-the-badge)
@@ -33,7 +32,7 @@
 
 ---
 
-### 🎨 Frontend Development
+### Frontend Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
@@ -43,7 +42,7 @@
 
 ---
 
-### 🗄 Backend & Database
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
@@ -54,7 +53,7 @@
 
 ---
 
-### 🚀 DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
@@ -63,7 +62,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 - 🐦 X (Twitter): https://x.com/0xWitchitra
 - 🔗 Base Profile: https://base.app/profile/spallavi06007
 
