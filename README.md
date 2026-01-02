@@ -26,11 +26,6 @@
 
 ---
 
-## 📌 Featured Project
-- *Object-Detection*  
-  JavaScript-based project exploring detection logic and experimentation
-
----
 
 ## 🛠 Tech Stack
 
@@ -44,18 +39,3 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xWitchitra&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xWitchitra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Building on-chain, one block at a time.</i>
-</p>
