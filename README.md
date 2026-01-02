@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 0xWitchitra 👋</h1>
+<h1 align="center">Hi, I'm 0xWitchitra </h1>
 
 <p align="center">
   On-chain Builder · Web3 · Smart Contracts
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Tech Stack (O_O)
+##  Tech Stack (O_O)
 
 ### ⛓ Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity)
@@ -31,7 +31,7 @@
 
 ---
 
-### 🎨 Frontend Development
+###  Frontend Development
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs)
@@ -41,7 +41,7 @@
 
 ---
 
-### 🗄 Backend & Database
+###  Backend & Database
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js)
 ![Bun](https://img.shields.io/badge/BUN-000000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql)
@@ -52,7 +52,7 @@
 
 ---
 
-### ⚙️ DevOps & Tools
+###  DevOps & Tools
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel)
