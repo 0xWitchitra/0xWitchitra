@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm 0xWitchitra 👋</h1>
 
 <p align="center">
-  On-chain Builder · Smart Contracts · Web3
+  On-chain Builder · Web3 · Smart Contracts
 </p>
 
 <p align="center">
@@ -18,44 +18,49 @@
 
 ---
 
-## 🧱 About Me
-- Building and experimenting with on-chain applications
-- Interested in smart contracts, EVM chains, and Web3 infra
-- Learning by shipping, testing, and breaking things
-- Open to collaborations and early-stage Web3 projects
+## 🛠 Tech Stack (O_O)
+
+### ⛓ Blockchain & Web3
+![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity)
+![Foundry](https://img.shields.io/badge/FOUNDRY-FF9900?style=for-the-badge)
+![Wagmi](https://img.shields.io/badge/WAGMI-000000?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/HARDHAT-F7DF1E?style=for-the-badge)
+![Ethers.js](https://img.shields.io/badge/ETHERS.JS-3C3C3D?style=for-the-badge)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge)
+![OpenZeppelin](https://img.shields.io/badge/OPENZEPPELIN-4E5EE4?style=for-the-badge)
 
 ---
 
-## 📌 Featured Project
-- *Object-Detection*  
-  JavaScript-based project exploring detection logic and experimentation
+### 🎨 Frontend Development
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/VUE.JS-42B883?style=for-the-badge&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/NUXT.JS-00DC82?style=for-the-badge&logo=nuxtdotjs)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ---
 
-## 🛠 Tech Stack
-
-### Blockchain / Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
-![EVM](https://img.shields.io/badge/EVM-black?style=for-the-badge)
-
-### Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+### 🗄 Backend & Database
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js)
+![Bun](https://img.shields.io/badge/BUN-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis)
+![GraphQL](https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql)
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux)
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xWitchitra&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xWitchitra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Building on-chain, one block at a time.</i>
+  <i>On-chain focused. Building with intent.</i>
 </p>
