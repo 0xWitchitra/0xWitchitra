@@ -13,8 +13,8 @@
 ##  ABOUT ME
 
  On-chain builder focused on **EVM ecosystems**
- Full-stack Web3 developer
- Open-source contributor
+ --Full-stack Web3 developer
+ --Open-source contributor
 
 
 ---
