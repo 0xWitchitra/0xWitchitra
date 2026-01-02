@@ -1,4 +1,12 @@
-<h1 align="center">Hi, I'm 0xWitchitra </h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?
+type=waving
+&color=0:0f0c29,100:302b63
+&height=160
+&section=header
+&text=0xWitchitra
+&fontSize=42
+&fontColor=ffffff
+&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
@@ -15,7 +23,20 @@
             Building+on+EVM+Chains" 
   />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=JetBrains+Mono
+    &size=16
+    &pause=2000
+    &color=AAAAAA
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=Solidity+•+Foundry+•+Next.js+•+Web3" 
+  />
+</p>
 
+<h1 align="center">Hi, I'm 0xWitchitra </h1>
 
 <p align="center">
   On-chain Builder · Web3 · Node Guides
